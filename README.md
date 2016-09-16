@@ -1,2 +1,5 @@
 # fictional-chainsaw
-A repository than guide me learn how to user git-hub
+A repository that guide me learn how to user git-hub
+
+***********************************
+this is a line that add message 
